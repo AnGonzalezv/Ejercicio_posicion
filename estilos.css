@@ -1,0 +1,53 @@
+.titulo1{
+    font-size: 40px;
+    color:red;
+    position: relative;
+    /*top: 150px;
+    left:150px;*/
+}
+
+.ejemplo2{
+    font-size: 25px;
+    position:static;
+    border:solid #ffff00;
+}
+
+.ejemplo2_1{
+    font-size: 25px;
+    position:relative;
+    left:100px;
+    border:solid #ffff00;
+}
+
+.relative1{
+    font-size: 20px;
+    border:solid #085808;
+    height: 250px;
+    width: 500px;
+    position: relative;
+}
+
+.absolute1_2{
+    font-size: 20px;
+    border:solid #085808;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    left:295px;
+    top:100px;
+}
+
+.sticky2{
+    position: sticky;
+    top:80px;
+    border:solid #1B75CE;
+    background-color: #529171;
+}
+
+.txt1{
+    position: relative;
+    bottom: 300px;
+    left:10px;
+}
+
+
